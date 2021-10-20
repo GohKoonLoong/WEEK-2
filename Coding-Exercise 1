@@ -16,7 +16,7 @@ public class Exercise2 {
 		System.out.println("6.30pm:I will spend time doing exercise give by professor and try to understand it");
 		System.out.println("8.30pm:After that,I will have my dinner while watching drama");
 		System.out.println("10.00pm:I will continue my night gaming with my friends and normally it ends at 12");
-		System.out.println("12.30pm:I will brush my teeth and wash my face,then go to sleep at 1");
+		System.out.println("12.30am:I will brush my teeth and wash my face,then go to sleep at 1");
 	}
 
 }
